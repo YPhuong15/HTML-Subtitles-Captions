@@ -26,3 +26,8 @@ main p {
 main h2 {
     color: lightseagreen;
 }
+
+track {
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+}
